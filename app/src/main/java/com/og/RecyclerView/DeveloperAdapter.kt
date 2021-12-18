@@ -1,8 +1,9 @@
-package com.og.examexample
+package com.og.RecyclerView
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.og.examexample.R
 
 class DeveloperAdapter(private val developersNames: List<String>) :
     RecyclerView.Adapter<DeveloperViewHolder>() {

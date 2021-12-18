@@ -1,8 +1,9 @@
-package com.og.examexample
+package com.og.RecyclerView
 
 import android.view.View
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.og.examexample.R
 
 class DeveloperViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 

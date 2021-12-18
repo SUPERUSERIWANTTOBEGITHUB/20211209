@@ -1,4 +1,4 @@
-package com.og.examexample
+package com.og.RecyclerView
 
 import android.content.Intent
 import android.net.Uri
@@ -10,6 +10,7 @@ import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.og.examexample.R
 
 class AboutFragment : Fragment() {
 
